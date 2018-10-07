@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["widgets"],{db5c:function(e,t,n){"use strict";n.r(t);var s=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},i=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"about"},[n("h1",[e._v("This is an 小组件 page")])])}],a=n("2877"),c={},l=Object(a["a"])(c,s,i,!1,null,null,null);l.options.__file="Index.vue";t["default"]=l.exports}}]);
-//# sourceMappingURL=widgets.2e8193d4.js.map
